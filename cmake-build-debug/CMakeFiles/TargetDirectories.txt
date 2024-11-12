@@ -1,0 +1,3 @@
+/Users/alonsoparra/TC1031/act3.4 2/cmake-build-debug/CMakeFiles/act3_4.dir
+/Users/alonsoparra/TC1031/act3.4 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alonsoparra/TC1031/act3.4 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
